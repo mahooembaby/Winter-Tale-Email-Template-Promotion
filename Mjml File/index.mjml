@@ -1,0 +1,35 @@
+<mjml>
+  <mj-body>
+    <mj-section full-width="full-width" background-url="https://i.ibb.co/k4811vk/banner.png" background-repeat="no-repeat" background-size="cover">
+      <mj-column width="70%">
+
+        <mj-text align="center" padding-top="70px" padding-bottom="0" font-size="50px" text-transform="uppercase" color="#d04423" font-weight="500">winter</mj-text>
+        <mj-text align="center" padding-top="0" font-size="50px" text-transform="uppercase" color="#d04423" font-weight="500">tale</mj-text>
+        <mj-text align="center" padding-right="15px" padding-left="15px" font-size="11px" line-height="15px" text-transform="capitalize" color="#000" font-weight="500">lorem ipsum is simply dummy text of theprinting and type setting industry. Lorem ipsum been the industry's standard dummy text ever since the 1500s, when an unknown printer took a gallery of type.</mj-text>
+        <mj-text align="center" padding-top="15px" font-size="70px" text-transform="uppercase" color="#000" font-weight="600">60% OFF</mj-text>
+        <mj-text align="center" padding-top="0" font-size="30px" text-transform="uppercase" color="#000" font-weight="300">everything</mj-text>
+        <mj-text align="center" padding-top="1px" font-size="20px" text-transform="uppercase" color="#000" font-weight="400" padding-bottom="40px">with code <span style="color:#d04423;font-weight:800;">winter sale</span></mj-text>
+
+        <mj-button href="#" width="100%" background-color="#3aaee1" font-size="16px" font-weight="500" text-transform="uppercase" padding-bottom="5px" padding-top="0">shop hanbags</mj-button>
+        <mj-button href="#" width="100%" background-color="#3aaee1" font-size="16px" font-weight="500" text-transform="uppercase" padding-bottom="5px" padding-top="0">shop wallets</mj-button>
+        <mj-button href="#" width="100%" background-color="#3aaee1" font-size="16px" font-weight="500" text-transform="uppercase" padding-bottom="5px" padding-top="0">shop jewelery</mj-button>
+        <mj-button href="#" width="100%" background-color="#3aaee1" font-size="16px" font-weight="500" text-transform="uppercase" padding-bottom="5px" padding-top="0">shop shoes</mj-button>
+        <mj-button href="#" width="100%" background-color="#3aaee1" font-size="16px" font-weight="500" text-transform="uppercase" padding-bottom="25px" padding-top="0">shop all sale</mj-button>
+
+        <mj-text align="center">
+          <div>
+            <a href="#"><img style="width:25px; margin-right:5px;" src="https://i.ibb.co/q5SP5Zd/facebook.png" /></a>
+            <a href="#"><img style="width:25px; margin-right:5px;" src="https://i.ibb.co/q9gcPMx/linkedin.png" /></a>
+            <a href="#"><img style="width:25px; margin-right:5px;" src="https://i.ibb.co/mBgJZGH/instagram.png" /></a>
+            <a href="#"><img style="width:25px; margin-right:5px;" src="https://i.ibb.co/ZKvdfp6/pinterest.png" /></a>
+            <a href="#"><img style="width:25px; margin-right:5px;" src="https://i.ibb.co/MBT6d8v/youtube.png" /></a>
+            <a href="#"><img style="width:25px; margin-right:5px;" src="https://i.ibb.co/8803pfh/x.png" /></a>
+          </div>
+        </mj-text>
+
+        <mj-text align="center" font-size="16px">email@website.com</mj-text>
+        <mj-text align="center" font-size="16px" padding-bottom="300px" padding-top="0">+12 458 4658</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
